@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.bridgelabz.basicprogram;
 
 import java.util.Random;
 import java.util.Scanner;
